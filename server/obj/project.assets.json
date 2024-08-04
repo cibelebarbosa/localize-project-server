@@ -3033,11 +3033,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Projetos\\LocalizeProject\\server\\server\\server.csproj",
+      "projectUniqueName": "C:\\Dev\\Projetos\\localize-project-server\\server\\server.csproj",
       "projectName": "server",
-      "projectPath": "C:\\Dev\\Projetos\\LocalizeProject\\server\\server\\server.csproj",
+      "projectPath": "C:\\Dev\\Projetos\\localize-project-server\\server\\server.csproj",
       "packagesPath": "C:\\Users\\Cibele\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Projetos\\LocalizeProject\\server\\server\\obj\\",
+      "outputPath": "C:\\Dev\\Projetos\\localize-project-server\\server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cibele\\AppData\\Roaming\\NuGet\\NuGet.Config",
